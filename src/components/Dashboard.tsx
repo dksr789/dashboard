@@ -1,6 +1,5 @@
 import React from 'react';
-import { Search, Bell, Settings, ChevronUp, ChevronDown } from 'lucide-react';
-import Header from './Header';
+import { Search, Bell, Settings } from 'lucide-react';
 import StatCard from './StatCard';
 import PartnerSection from './PartnerSection';
 import LeadSourcesSection from './LeadSourcesSection';
